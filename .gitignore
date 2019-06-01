@@ -1,0 +1,12 @@
+#Miscellaneous
+bin/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# vuepress build output
+.vuepress/dist
